@@ -1,17 +1,12 @@
 package tech.raqib.cmput301lpe4;
 
 public abstract class Shape {
-<<<<<<< HEAD
-    private int x;
-    private int y;
-    private int z;
-    private String magenta;
-=======
+
     private int X;
     private int Y;
     private int Z;
-    private String teal;
->>>>>>> 0df3e9accd465742fd66dee579f442a31799958a
+    private String magenta;
+
 
     public Shape() {
 
