@@ -4,7 +4,7 @@ public abstract class Shape {
     private int X;
     private int Y;
     private int Z;
-    private String color;
+    private String color_tianxin3;
 
     public Shape() {
 
