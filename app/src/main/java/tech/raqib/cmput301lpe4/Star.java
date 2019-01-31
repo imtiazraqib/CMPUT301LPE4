@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package tech.raqib.cmput301lpe4;
 
 public class Star extends Shape{
@@ -6,4 +7,11 @@ public class Star extends Shape{
     super();
   }
 
+=======
+package tech.raqib.cmout301lpe4;
+
+public class Star extends Shape{
+	public Star(){
+	}
+>>>>>>> origin/ronghui1
 }
