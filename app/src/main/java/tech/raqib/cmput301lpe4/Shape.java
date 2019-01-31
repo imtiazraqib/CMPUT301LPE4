@@ -5,7 +5,7 @@ public abstract class Shape {
     private int X;
     private int Y;
     private int Z;
-    private String orange;
+    private String blue;
 
 
     public Shape() {
