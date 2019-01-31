@@ -5,12 +5,12 @@ public abstract class Shape {
     private int X;
     private int Y;
     private int Z;
-<<<<<<< HEAD
     private String orange;
-=======
-    private String magenta;
->>>>>>> bd21122f4e4140358a0a4b398d208cc2d8b50229
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> bd21122f4e4140358a0a4b398d208cc2d8b50229
 
     public Shape() {
 

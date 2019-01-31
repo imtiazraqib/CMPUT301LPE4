@@ -7,8 +7,6 @@ public abstract class Shape {
     private int Z;
     private String orange;
 
-
-
     public Shape() {
 
     }
