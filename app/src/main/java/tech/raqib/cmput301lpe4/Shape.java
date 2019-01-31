@@ -1,10 +1,10 @@
 package tech.raqib.cmput301lpe4;
 
 public abstract class Shape {
-    private int x;
-    private int y;
-    private int z;
-    private String color = "Cyan";
+    private int X;
+    private int Y;
+    private int Z;
+    private String teal;
 
     public Shape() {
 
